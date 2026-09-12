@@ -1,5 +1,5 @@
 {
-  "name": "elsewhere-afterlight",
+  "name": "VengeanceVM",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -17,9 +17,7 @@
     "concurrently": "^10.0.5",
     "typescript": "~7.0.2",
     "vite": "^8.2.2",
-    "vite-plugin-glsl": "^1.6.1"
-  },
-  "dependencies": {
+    "vite-plugin-glsl": "^1.6.1",
     "vite-plugin-wasm": "^3.6.0"
   }
 }
